@@ -26,7 +26,7 @@ Vous êtes sur la documentation de l'intranet pour les_ étudiants_. Si vous êt
 
 ## Comment se connecter à l'Intranet ?
 
-{% embed url="https://youtu.be/9S0GJb0Z2zs" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9S0GJb0Z2zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pour vous connectez à l'intranet, un formulaire de connexion est disponible et se présente de la manière suivante :
 
