@@ -18,7 +18,6 @@ export default theme({
       content: 'Documentation officiel de l\'intranet de l\'IUT de Troyes et de Reims'
     }
   ],
-
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   loading: { color: '#4d3677' },
   i18n: {

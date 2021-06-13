@@ -9,8 +9,9 @@ Si l'emploi du temps est disponible sur l'intranet \(qu'il provienne de Celcat o
 
 Pour cela, sur le dashboard de l'intranet, choisir à droite du titre de l'emploi du temps le menu :
 
-![Menu de l&apos;emploi du temps](/images/trucs/ical1.png)
+![Menu de l&apos;emploi du temps](./ical1.png)
 <p class="legend">Menu de l&apos;emploi du temps</p>
+
 
 Plusieurs formats d'export sont à votre disposition, ainsi qu'un lien pour la synchronisation celcat. Ce lien est personnel et individuel et permet de récupérer votre emploi du temps.
 
