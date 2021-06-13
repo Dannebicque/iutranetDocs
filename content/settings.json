@@ -8,8 +8,9 @@
   "github": "dannebicque/intranetv3",
   "twitter": "davidannebicque",
   "algolia": {
-    "apiKey": "c8bcfea7a109369a00b06dc858de33d2",
-    "indexName": "iutranet_index",
+    "appId": "N15M8DWZID",
+    "apiKey": "e126bbba4357a7033c8e6b7fbd67feaa",
+    "indexName": "netlify_4a8f2995-0539-4068-b985-2f01f2022d99_main_all",
     "langAttribute": "fr-FR"
   }
 }
