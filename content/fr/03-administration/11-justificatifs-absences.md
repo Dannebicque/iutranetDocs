@@ -5,11 +5,26 @@ fullscreen: false
 category: "Administration"
 ---
 
-## Accéder aux justificatifs d'absences
+## Gérer les justificatifs d'absences
 
-## Consulter
+Les étudiants peuvent déposer un justificatif d'absence sur l'intranet \(voir la rubrique d'aide consacrée\).
 
-## Modifier
+Vous devez ensuite accepter ou refuser leurs justificatifs depuis la partie administration \(assistant\(e\)s, chefs de département, directeurs des études, responsables des absences\).
 
-## Valider / refuser
+Dans un semestre, vous avez l'information du nombre de justificatifs en attente.
+
+![Administration &amp;gt; Semestre](/images/administration/justificatif1.png)
+
+Lorsque vous choisissez "Liste des justificatifs \(xx nouveaux\)", vous obtenez la liste des justificatifs déposés.
+
+![Liste des justificatifs](/images/administration/justificatif2.png)
+
+Vous pouvez :
+
+* Voir le détail d'un justificatif: dates, motifs, document joint
+* Valider un justificatif : Dans ce cas toutes les absences sur la période sont justifiées, l'étudiant en est informé.
+* Refuser un justificatif : L'étudiant est informé de la non prise en compte de sa demande.
+* Supprimer un justificatif \(en cas d'erreur de saisie par exemple\) : Le justificatif est supprimé, sans action sur les absences. L'étudiant est informé.
+
+
 
