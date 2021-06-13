@@ -5,7 +5,7 @@ export default theme({
   docs: {
     primaryColor: '#f7b000'
   },
-  loading: { color: '#00CD81' },
+  loading: { color: '#4d3677' },
   i18n: {
     locales: () => [{
       code: 'fr',
