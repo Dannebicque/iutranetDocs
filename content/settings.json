@@ -1,0 +1,10 @@
+{
+  "title": "Documentation Intranet",
+  "url": "iutranet.com",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "dannebicque/intranetv3",
+  "twitter": "davidannebicque"
+}
