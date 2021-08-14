@@ -10,7 +10,9 @@ fullscreen: false
 L'Intranet est un réseau informatique interne privé appartenant à une entité organisationnelle. Le concept de cet Intranet est de pouvoir accéder à une multitude d'informations et de contenus propres à chaque étudiant comme la visualisation de ces notes, de ces absences ou de son emploi du temps par exemple. D'autre part, cet Intranet permet aux professeurs d'intégrer ses différentes ressources aisément.
 
 <alert type="info">
-_Vous êtes sur la documentation de l'intranet pour les **enseignants et personnels**. Si vous êtes un_ étudiant_, cliquez_ [_ici_](https://app.gitbook.com/@dannebicque/s/intranet/~/drafts/-LzHiccbPZawhyR8nTHu/eleve-documentation-de-lintranet)_._
+
+Vous êtes sur la documentation de l'intranet pour les **enseignants et personnels**. Si vous êtes un étudiant [clquez ici](/01-etudiant/01-etudiant.md).
+
 </alert>
 
 ### Comment se connecter à l'Intranet ?
@@ -36,15 +38,19 @@ Vous arrivez ensuite sur une page avec ce formulaire de connexion :
 Muni de votre identifiant et de votre mot de passe \(fournis par votre IUT\), inscrivez votre identifiant dans le champ nommé "Login" et votre mot de passe dans le champ nommé "Mot de passe".
 
 <alert type="info">
-_Si vous ne vous rappelez plus votre mot de passe, vous pouvez à tout moment cliquer sur "Mot de passe oublié" en bas du formulaire._
+Si vous ne vous rappelez plus votre mot de passe, vous pouvez à tout moment cliquer sur "Mot de passe oublié" en bas du formulaire.
 </alert>
 
 <alert type="info">
-_Si vous êtes **étudiant** et que vous ne vous êtes jamais connecté, cliquez sur "Première connexion des étudiants de l'université" en bas du formulaire._
+
+Si vous êtes **étudiant** et que vous ne vous êtes jamais connecté, cliquez sur "Première connexion des étudiants de l'université" en bas du formulaire.
+
 </alert>
 
 <alert type="info">
-_Si vous êtes du **personnel de l'université** et que vous ne vous êtes jamais connecté, cliquez sur "Première connexion des personnels de l'université" en bas du formulaire._
+
+Si vous êtes du **personnel de l'université** et que vous ne vous êtes jamais connecté, cliquez sur "Première connexion des personnels de l'université" en bas du formulaire.
+
 </alert>
 
 Entrez vos informations de connexion :
@@ -58,7 +64,9 @@ Cliquez sur le bouton **se connecter** :
 Muni de votre identifiant et de votre mot de passe \(fournis par votre IUT\), inscrivez votre identifiant dans le champ nommé "Login" et votre mot de passe dans le champ nommé "Mot de passe".
 
 <alert type="info">
-_Si vous ne vous rappelez plus votre mot de passe, vous pouvez à tout moment cliquer sur "Mot de passe oublié" en bas du formulaire._
+
+Si vous ne vous rappelez plus votre mot de passe, vous pouvez à tout moment cliquer sur "Mot de passe oublié" en bas du formulaire.
+
 </alert>
 
 ![Formulaire rempli avec le couple login/mot de passe](/images/permanent/enseignant1.jpeg)

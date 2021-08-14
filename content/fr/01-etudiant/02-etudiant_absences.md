@@ -7,8 +7,7 @@ fullscreen: false
 
 ### Comment visualiser une absence ?
 
-**Attention** ! Pour effectuer cette tâche vous devez au préalable vous connectez à votre **compte étudiant** \(voir la
-rubrique "Comment se connecter à l'intranet" ou bien cliquer_ [_
+**Attention** ! Pour effectuer cette tâche vous devez au préalable vous connectez à votre **compte étudiant** \(voir la rubrique "Comment se connecter à l'intranet" ou bien cliquer [_
 ici_](https://app.gitbook.com/@dannebicque/s/intranet/#comment-se-connecter-a-lintranet)\).
 
 {% embed url="https://youtu.be/z1T-df22gUI" %}

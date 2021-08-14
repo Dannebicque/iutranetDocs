@@ -29,4 +29,15 @@ export default theme({
     }],
     defaultLocale: 'fr'
   },
+  build: {
+    babel: {
+      plugins: [
+        '@babel/plugin-proposal-class-properties',
+        '@babel/plugin-proposal-private-methods',
+  
+        // or with JUST the line below 
+       // ['@babel/plugin-proposal-private-property-in-object', { loose: true }]
+      ],
+    },
+  }
 })

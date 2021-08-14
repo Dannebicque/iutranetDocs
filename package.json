@@ -9,8 +9,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content-theme-docs": "0.10.1",
+    "@nuxt/content-theme-docs": "^0.10",
     "@pondorasti/remark-img-links": "^1.0.5",
-    "nuxt": "^2.15.2"
+    "nuxt": "^2.15"
   }
 }

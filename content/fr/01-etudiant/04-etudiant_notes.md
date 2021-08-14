@@ -39,6 +39,6 @@ Une fois sur votre profil, cliquez sur la rubrique **notes** :
 ![Rubrique &quot;notes&quot; sur votre profil](../.gitbook/assets/profil_note.jpg)
 
 
-<div class="alert alert-success">
+<alert type="success">
 Vous pouvez consulter la liste de vos absences depuis cette page.
 </div>

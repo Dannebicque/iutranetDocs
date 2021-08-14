@@ -15,6 +15,5 @@ Cette nouvelle version apporte une refonte ergonomique complète, et une optimis
 
 ## Mises à jours
 
-Les améliorations sont régulières, tout comme des ajustements et des correctifs. Toutes les informations seront (autant
-que j'y pense) dans le [changelog](CHANGELOG.md)
+Les améliorations sont régulières, tout comme des ajustements et des correctifs. Toutes les informations sont dans le [changelog](https://github.com/Dannebicque/intranetV3/blob/master/CHANGELOG.md).
 
