@@ -3,18 +3,21 @@
     "name": "releases___fr",
     "path": "/releases",
     "component": "C:\\\\Users\\\\david\\\\Documents\\\\david\\\\iutranetDocs\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\releases.vue",
-    "chunkName": "pages/releases"
+    "chunkName": "pages/releases",
+    "_name": "_4155edba"
   },
   {
     "name": "index___fr",
     "path": "/",
     "component": "C:\\\\Users\\\\david\\\\Documents\\\\david\\\\iutranetDocs\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
-    "chunkName": "pages/_"
+    "chunkName": "pages/_",
+    "_name": "_6087ef3e"
   },
   {
     "name": "all___fr",
     "path": "/*",
     "component": "C:\\\\Users\\\\david\\\\Documents\\\\david\\\\iutranetDocs\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
-    "chunkName": "pages/_"
+    "chunkName": "pages/_",
+    "_name": "_6087ef3e"
   }
 ]

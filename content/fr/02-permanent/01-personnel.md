@@ -1,6 +1,8 @@
 ---
 title: "Espace Enseignant / Internvenant"
 category: 'Enseignant / Internvenant'
+description: "Découverte de l'intranet pour les enseignants et intervenants professionnels"
+position: 1
 version: 1.0
 fullscreen: false
 ---
@@ -78,5 +80,7 @@ Une page similaire doit apparaître sous vos yeux, vous pouvez maintenant navigu
 ![Page d&apos;accueil \(dashboard\) de l&apos;Intranet](/images/permanent/enseignant4.jpeg)
 
 <alert type="success">
+
 Vous êtes maintenant connecté.
+
 </alert>
