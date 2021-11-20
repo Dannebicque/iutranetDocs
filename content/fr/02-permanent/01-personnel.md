@@ -28,14 +28,14 @@ Pour se connecter à l'Intranet, deux options s'offrent à vous :
 
 Pour ce faire, un formulaire de connexion est disponible et se présente de la manière suivante :
 
-![Formulaire de connexion &#xE0; l&apos;Intranet](/images/permanent/enseignant1.jpeg)
+![Formulaire de connexion &#xE0; l&apos;Intranet](/images/permanent/enseignant1.png)
 
 ### La connexion via l'URCA / CAS
 Cliquez sur le bouton **connexion urca :**
 
 Vous arrivez ensuite sur une page avec ce formulaire de connexion :
 
-![Formulaire de connexion URCA](/images/permanent/enseignant2.jpeg)
+![Formulaire de connexion URCA](/images/permanent/enseignant2.png)
 
 Muni de votre identifiant et de votre mot de passe \(fournis par votre IUT\), inscrivez votre identifiant dans le champ nommé "Login" et votre mot de passe dans le champ nommé "Mot de passe".
 
@@ -57,7 +57,7 @@ Si vous êtes du **personnel de l'université** et que vous ne vous êtes jamais
 
 Entrez vos informations de connexion :
 
-![Formulaire de connexion URCA compl&#xE9;t&#xE9;](/images/permanent/enseignant3.jpeg)
+![Formulaire de connexion URCA compl&#xE9;t&#xE9;](/images/permanent/enseignant3.png)
 
 Cliquez sur le bouton **se connecter** :
 
@@ -71,13 +71,13 @@ Si vous ne vous rappelez plus votre mot de passe, vous pouvez à tout moment cli
 
 </alert>
 
-![Formulaire rempli avec le couple login/mot de passe](/images/permanent/enseignant1.jpeg)
+![Formulaire rempli avec le couple login/mot de passe](/images/permanent/enseignant1.png)
 
 Une fois l’identifiant et le mot de passe saisis dans leur espace respectif, il suffit de cliquer sur **Login** pour se connecter.
 
 Une page similaire doit apparaître sous vos yeux, vous pouvez maintenant naviguer sur l'Intranet :
 
-![Page d&apos;accueil \(dashboard\) de l&apos;Intranet](/images/permanent/enseignant4.jpeg)
+![Page d&apos;accueil \(dashboard\) de l&apos;Intranet](/images/permanent/enseignant4.png)
 
 <alert type="success">
 
