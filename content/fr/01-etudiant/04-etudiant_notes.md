@@ -40,5 +40,7 @@ Une fois sur votre profil, cliquez sur la rubrique **notes** :
 
 
 <alert type="success">
+
 Vous pouvez consulter la liste de vos absences depuis cette page.
-</div>
+
+</alert>

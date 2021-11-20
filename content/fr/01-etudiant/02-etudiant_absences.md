@@ -36,7 +36,9 @@ Une fois sur votre profil, cliquez sur la rubrique **absences** :
 ![La rubrique &quot;absences&quot; de votre profil](../.gitbook/assets/image%20%2818%29.png)
 {% endtab %} {% endtabs %}
 
-<div class="alert alert-success">
+<alert type="success">
+
 **Vous pouvez consulter la liste de vos absences depuis cette page.**
-</div>
+
+</alert>
 
