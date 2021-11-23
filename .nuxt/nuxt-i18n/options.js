@@ -16,10 +16,9 @@ export const options = {
   defaultDirection: "ltr",
   routesNameSeparator: "___",
   defaultLocaleRouteNameSuffix: "default",
-  sortRoutes: true,
   strategy: "prefix_except_default",
   lazy: true,
-  langDir: "C:\\Users\\david\\Documents\\david\\iutranetDocs\\node_modules\\@nuxt\\content-theme-docs\\src\\i18n",
+  langDir: "/Users/davidannebicque/htdocs/intraDoc/node_modules/@nuxt/content-theme-docs/src/i18n",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":false,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"i18n_redirected","cookieSecure":false,"fallbackLocale":"","onlyOnNoPrefix":false,"onlyOnRoot":false,"useCookie":true},
   differentDomains: false,
@@ -37,5 +36,5 @@ export const options = {
 }
 
 export const localeMessages = {
-  'fr-FR.js': () => import('../..\\node_modules\\@nuxt\\content-theme-docs\\src\\i18n\\fr-FR.js' /* webpackChunkName: "lang-fr-FR.js" */),
+  'fr-FR.js': () => import('../../node_modules/@nuxt/content-theme-docs/src/i18n/fr-FR.js' /* webpackChunkName: "lang-fr-FR.js" */),
 }

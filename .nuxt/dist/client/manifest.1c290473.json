@@ -1,7 +1,7 @@
 {
   "name": "intradoc",
   "short_name": "intradoc",
-  "description": "Install dependencies:",
+  "description": "## Setup",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.8f91ea.png",

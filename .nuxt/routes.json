@@ -2,22 +2,19 @@
   {
     "name": "releases___fr",
     "path": "/releases",
-    "component": "C:\\\\Users\\\\david\\\\Documents\\\\david\\\\iutranetDocs\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\releases.vue",
-    "chunkName": "pages/releases",
-    "_name": "_4155edba"
+    "component": "/Users/davidannebicque/htdocs/intraDoc/node_modules/@nuxt/content-theme-docs/src/pages/releases.vue",
+    "chunkName": "pages/releases"
   },
   {
     "name": "index___fr",
     "path": "/",
-    "component": "C:\\\\Users\\\\david\\\\Documents\\\\david\\\\iutranetDocs\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
-    "chunkName": "pages/_",
-    "_name": "_6087ef3e"
+    "component": "/Users/davidannebicque/htdocs/intraDoc/node_modules/@nuxt/content-theme-docs/src/pages/_.vue",
+    "chunkName": "pages/_"
   },
   {
     "name": "all___fr",
     "path": "/*",
-    "component": "C:\\\\Users\\\\david\\\\Documents\\\\david\\\\iutranetDocs\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
-    "chunkName": "pages/_",
-    "_name": "_6087ef3e"
+    "component": "/Users/davidannebicque/htdocs/intraDoc/node_modules/@nuxt/content-theme-docs/src/pages/_.vue",
+    "chunkName": "pages/_"
   }
 ]
