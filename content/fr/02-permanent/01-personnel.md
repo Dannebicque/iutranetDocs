@@ -13,7 +13,7 @@ L'Intranet est un réseau informatique interne privé appartenant à une entité
 
 <alert type="info">
 
-Vous êtes sur la documentation de l'intranet pour les **enseignants et personnels**. Si vous êtes un étudiant [clquez ici](/01-etudiant/01-etudiant.md).
+Vous êtes sur la documentation de l'intranet pour les **enseignants et personnels**. Si vous êtes un étudiant [cliquez ici](/01-etudiant/01-etudiant.md).
 
 </alert>
 

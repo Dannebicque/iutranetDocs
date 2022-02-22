@@ -5,6 +5,7 @@ category: 'Etudiant'
 version: 1.0
 fullscreen: false
 ---
+
 Sur cette version de l'intranet vous pouvez justifier vos absences en ligne. Pour cela, sur le bloc "vos absences" sur le dashboard vous pouvez ajouter un justification en cliquant sur le "+".
 
 ![Ajouter un justificatif d'absence.](/images/etudiants/image1.png)

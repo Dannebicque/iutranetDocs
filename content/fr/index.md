@@ -11,7 +11,7 @@ Cet intranet est spécialisé dans la gestion de formation universitaire de type
 
 Il propose de nombreuses gestions comme le suivi des notes, des absences, des rattrapages, des services prévisionnels des enseignants, des trombinoscopes et des groupes d'étudiants et beaucoup d'autres fonctionnalités.
 
-Cette nouvelle version apporte une refonte ergonomique complète, et une optimisation du code, pour prendre en compte les standard de SF 5.2 et PHP 7.4.
+Cette nouvelle version apporte une refonte ergonomique complète, et une optimisation du code, pour prendre en compte les standard de SF 5.4 et PHP 8.1.
 
 ## Mises à jours
 
