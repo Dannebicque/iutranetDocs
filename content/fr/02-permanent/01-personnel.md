@@ -19,7 +19,7 @@ Vous êtes sur la documentation de l'intranet pour les **enseignants et personne
 
 ### Comment se connecter à l'Intranet ?
 
-{% embed url="https://youtu.be/9S0GJb0Z2zs">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9S0GJb0Z2zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pour se connecter à l'Intranet, deux options s'offrent à vous :
 
@@ -40,10 +40,12 @@ Vous arrivez ensuite sur une page avec ce formulaire de connexion :
 Muni de votre identifiant et de votre mot de passe \(fournis par votre IUT\), inscrivez votre identifiant dans le champ nommé "Login" et votre mot de passe dans le champ nommé "Mot de passe".
 
 <alert type="info">
+
 Si vous ne vous rappelez plus votre mot de passe, vous pouvez à tout moment cliquer sur "Mot de passe oublié" en bas du formulaire.
+
 </alert>
 
-<alert type="info">
+<alert type="warning">
 
 Si vous êtes **étudiant** et que vous ne vous êtes jamais connecté, cliquez sur "Première connexion des étudiants de l'université" en bas du formulaire.
 
@@ -77,7 +79,7 @@ Une fois l’identifiant et le mot de passe saisis dans leur espace respectif, i
 
 Une page similaire doit apparaître sous vos yeux, vous pouvez maintenant naviguer sur l'Intranet :
 
-![Page d&apos;accueil \(dashboard\) de l&apos;Intranet](/images/permanent/enseignant4.png)
+![Page d'accueil \(dashboard\) de l&apos;Intranet](/images/permanent/enseignant4.png)
 
 <alert type="success">
 
