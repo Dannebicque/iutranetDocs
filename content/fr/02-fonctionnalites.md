@@ -31,7 +31,7 @@ fullscreen: false
 * Système d’emprunt de matériel (MMI) <badge>Optimisation V3</badge>
 * Système (basique) de quizz/sondage <badge>Optimisation V3</badge>
 * Système de notification <badge>Nouveauté V3</badge>
-* Possibiltié de déposer un justificatif d'absence en
+* Possibilité de déposer un justificatif d'absence en
   ligne <badge>Nouveauté V3</badge>
 
 ## Fonctionnalités pour les enseignants/intervenants
@@ -43,7 +43,7 @@ fullscreen: false
 * Sollicitation des étudiants pour un quizz/sondage
 * Messagerie vers les étudiants (par promo, groupe ou individuel), mail officiel, mail perso si disponible et message interne de l’intranet
 * Liste des étudiants à suivre en stage <badge>Optimisation V3</badge>
-* Formlaire de suivi d’alternance <badge>Nouveauté V3</badge>
+* Formulaire de suivi d’alternance <badge>Nouveauté V3</badge>
 * Historique des absences et des notes des étudiants <badge>Nouveauté V3</badge>
 * Outils de recherche <badge>Optimisation V3</badge>
 
@@ -126,7 +126,7 @@ fullscreen: false
 # Interconnexions
 
 * Celcat pour la récupération des emplois du temps <badge>Optimisation V3</badge>
-* Apogée pour la synchornisation des maquettes et la récupération des listes. <badge>Nouveauté V3</badge>
+* Apogée pour la synchronisation des maquettes et la récupération des listes. <badge>Nouveauté V3</badge>
 
 # Features sur la version 3.1 (deuxième semestre 2021) <badge>Nouveauté V3.1</badge>
 
@@ -151,7 +151,7 @@ fullscreen: false
 * Suivi des services prévisionnels de manière globale par l’administration
 * Accès RH pour gérer les vacataires et nouveaux recrutements
 
-# Features sur la version 3.2 (premier semestre 2022) <badge>Feature V3.2</badge>
+# Features sur la version 3.5 ou après (courant 2022) <badge>Feature V3.5</badge>
 
 * Notion de "sous-évaluations" pour permettre la saisie de l'intérgalité des notes.
 * Mise en place d'un "cahier de texte", auto-alimenté par les étudiants
