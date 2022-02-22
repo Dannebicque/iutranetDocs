@@ -5,9 +5,9 @@ version: 1.0
 fullscreen: false
 ---
 
-### Comment visualiser ses notes ?
+## Comment visualiser ses notes ?
 
-**Attention** ! Pour effectuer cette tâche vous devez au préalable vous connectez à votre **compte étudiant** [voir la rubrique "Comment se connecter à l'intranet"](/01-etudiant/01-etudiant.md)
+**Attention** ! Pour effectuer cette tâche vous devez au préalable vous connectez à votre **compte étudiant** [voir la rubrique "Comment se connecter à l'intranet"](/01-etudiant/01-etudiant)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lp5hCTO0bQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

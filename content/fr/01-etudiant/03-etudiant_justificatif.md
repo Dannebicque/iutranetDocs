@@ -6,6 +6,9 @@ version: 1.0
 fullscreen: false
 ---
 
+**Attention** ! Pour effectuer cette tâche vous devez au préalable vous connectez à votre **compte étudiant** [voir la rubrique "Comment se connecter à l'intranet"](/01-etudiant/01-etudiant)
+
+
 Sur cette version de l'intranet vous pouvez justifier vos absences en ligne. Pour cela, sur le bloc "vos absences" sur le dashboard vous pouvez ajouter un justification en cliquant sur le "+".
 
 ![Ajouter un justificatif d'absence.](/images/etudiants/image1.png)
