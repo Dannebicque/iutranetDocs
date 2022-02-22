@@ -5,11 +5,38 @@ version: 1.0
 fullscreen: false
 ---
 
-## Consulter les salles d'examens
+## Gérer votre période d'alternance
 
-## Créer une salle d'examen
+## Suivre le suivi des alternants
 
-## Modifier
+Rendez-vous dans la partie Administration de l'intranet, et trouvez le bloc "Alternances".
 
-## Supprimer
+![Liste des formations en alternances](/images/administration/alternance1.png)
+
+Choisissez la formation concernée, et vous obtenez le tableau ci-dessous :
+
+![Liste des étudiants de la formation](/images/administration/alternance2.png)
+
+Dans ce tableau, vous pouvez visualiser :
+
+* L'étudiant,
+* Son entreprise
+* Le tuteur entreprise
+* Une liste déroulante pour selectionner le tuteur universitaire
+* Le nombre de fiche de suivie saisies
+* La possibilité de modifier, voir ou supprimer les informations de l'alternance.
+
+### Modifier le tuteur universitaire
+
+Pour modifier ou affecter un tuteur universitaire, selectionnez simplement son nom dans la liste déroulante. La modification est automatiquement enregistrée.
+
+Le tuteur universitaire pourra maintenant avoir les informations de l'alternant, et la possibilité de saisir les fiches de suivie dans la partie application de l'intranet.
+
+### Visualiser les fiches de suivie
+
+En cliquant sur le bouton "i" en fin de ligne, vous pouvez accéder aux fiches saisies, et aux informations sur l'alternance de l'étudiant (entreprise, contact, missions...).
+
+![Détails d'une alternance](/images/administration/alternance3.png)
+
+Dans cette page, vous avez la liste des fiches de suivie que vous pouvez consulter ou imprimer à votre convenance.
 
