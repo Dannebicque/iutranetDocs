@@ -9,7 +9,7 @@ fullscreen: false
 
 ## Suivre le suivi des alternants
 
-Rendez-vous dans la partie Administration de l'intranet, et trouvez le bloc "Alternances".
+Rendez vous dans la partie Administration de l'intranet, et trouvez le bloc "Alternances".
 
 ![Liste des formations en alternances](/images/administration/alternance1.png)
 
@@ -22,21 +22,21 @@ Dans ce tableau, vous pouvez visualiser :
 * L'étudiant,
 * Son entreprise
 * Le tuteur entreprise
-* Une liste déroulante pour selectionner le tuteur universitaire
-* Le nombre de fiche de suivie saisies
+* Une liste déroulante pour sélectionner le tuteur universitaire
+* Le nombre de fiche de suivi saisies
 * La possibilité de modifier, voir ou supprimer les informations de l'alternance.
 
 ### Modifier le tuteur universitaire
 
-Pour modifier ou affecter un tuteur universitaire, selectionnez simplement son nom dans la liste déroulante. La modification est automatiquement enregistrée.
+Pour modifier ou affecter un tuteur universitaire, sélectionnez simplement son nom dans la liste déroulante. La modification est automatiquement enregistrée.
 
-Le tuteur universitaire pourra maintenant avoir les informations de l'alternant, et la possibilité de saisir les fiches de suivie dans la partie application de l'intranet.
+Le tuteur universitaire pourra maintenant avoir les informations de l'alternant, et la possibilité de saisir les fiches de suivi dans la partie application de l'intranet.
 
-### Visualiser les fiches de suivie
+### Visualiser les fiches de suivi
 
 En cliquant sur le bouton "i" en fin de ligne, vous pouvez accéder aux fiches saisies, et aux informations sur l'alternance de l'étudiant (entreprise, contact, missions...).
 
 ![Détails d'une alternance](/images/administration/alternance3.png)
 
-Dans cette page, vous avez la liste des fiches de suivie que vous pouvez consulter ou imprimer à votre convenance.
+Dans cette page, vous avez la liste des fiches de suivi que vous pouvez consulter ou imprimer à votre convenance.
 
