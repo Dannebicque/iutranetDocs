@@ -6,11 +6,13 @@ version: 1.0
 fullscreen: false
 ---
 
-## Consulter les actualités
+Sur cette page vous pouvez gérer l'intranet, votre département et les formations qui lui sont associées.
 
-## Créer une actualité
+Selon les droits d'accès que vous avez, vous pouvez accéder aux différentes pages suivantes :
 
-## Modifier
-
-## Supprimer
+* Gestion des étudiants, les semestres varient selon vos droits d'accès
+* Gestion des groupes
+* Gestion des personnels, des vacataires et des prévisionnels
+* Gestion des périodes de stages et/ou d'alternance
+* Gestion des formations (structures, PN)
 
