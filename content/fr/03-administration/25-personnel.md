@@ -31,7 +31,7 @@ Vous obtenez la page ci-dessous, sur laquelle vous pouvez saisir le nom ou le pr
 ![Liste des personnels](/images/administration/addpersonnel2.png)
 
 
-Si votre recherche donne des résultats, vous obtenez une liste comme ci-dessous vous laissant la possiiblité d'ajouter le personnel au département (le "+" au bout de chaque ligne).
+Si votre recherche donne des résultats, vous obtenez une liste comme ci-dessous vous laissant la possiblité d'ajouter le personnel au département (le "+" au bout de chaque ligne).
 
 ![Recherche d'un personnel dans l'intranet](/images/administration/addpersonnel3.png)
 
@@ -47,7 +47,9 @@ Pour ajouter un personnel, vous devez remplir le formulaire suivant.
 
 ![Formulaire d'ajout](/images/administration/addpersonnel5.png)
 
-Il est vivement conseillé d'indiquer son numéro RH administration (ex harpège), pour pré-remplir ses informations (nom, prénom, email, login URCA, etc.). Indiquer son code administratif et cliquez sur "Rechercher sur le LDAP (numéro Harpège/SIAM oblogatoire)".
+Il est vivement conseillé d'indiquer son numéro RH administration (ex harpège), pour pré-remplir ses informations (nom, prénom, email, login URCA, etc.). 
+
+Pour cela, Indiquer son code administratif dans la première zone et cliquez sur "Rechercher sur le LDAP (numéro Harpège/SIAM oblogatoire)".
 
 
 ![Formulaire pré-rempli avec le numéro adminstratif](/images/administration/addpersonnel6.png)
